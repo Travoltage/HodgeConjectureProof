@@ -1,5 +1,5 @@
 Hodge Conjecture Verification Scripts
-This repository contains scripts to verify numerical and symbolic results for the proof of the Hodge Conjecture by Travoltage(x.com user @Travoltage1), as detailed in the provided mathematical document (Part 3). The scripts cover key test cases, including high-dimensional varieties (e.g., Calabi–Yau 50-fold) and simpler cases (e.g., elliptic curve, projective plane), ensuring comprehensive validation of the conjecture for smooth projective varieties over (\mathbb{C}).
+This repository contains scripts to verify numerical and symbolic results for the proof of the Hodge Conjecture by Travoltage (x.com user @Travoltage1), as detailed in the provided mathematical document (Part 3). The scripts cover key test cases, including high-dimensional varieties (e.g., Calabi–Yau 50-fold) and simpler cases (e.g., elliptic curve, projective plane), ensuring comprehensive validation of the conjecture for smooth projective varieties over (\mathbb{C}).
 Overview
 The scripts verify:
 
